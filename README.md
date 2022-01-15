@@ -9,7 +9,7 @@
     <a href="#2d-Object-Detection">2D Object Detection</a> |
     <a href="#3d-object-detection">3D Object Detection</a> |
     <a href="#contribution">Contribution</a> |
-    <a href="#references">References</a> |
+    <a href="#references">References</a>
   </h4>
 </div>
 <br>
